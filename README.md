@@ -149,7 +149,7 @@ This enables the Genetic Algorithm to generate learning recommendations that are
 
 ---
 
-📈 Effect on Optimization
+## 📈 Effect on Optimization
 
 This design allows the Genetic Algorithm to:
 
@@ -240,11 +240,10 @@ Run: ./main
 
 Visualize Results:
 
-- python visualize/chart1.py
+- python Visualize/chart1_fitness_convergence.py
 
-- python visualize/chart2.py
+- python Visualize/chart2_selected_courses_overview.py
 
-- python visualize/chart3.py
 
 ## 📌 Future Improvements
 
