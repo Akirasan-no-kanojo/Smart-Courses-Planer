@@ -35,7 +35,8 @@ Course = {
   Duration (hours),
   Price (JPY),
   Rating,
-  Reviews
+  Reviews,
+  Skills
 }
 
 A candidate solution (chromosome) is encoded as a binary vector:
